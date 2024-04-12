@@ -1,0 +1,13 @@
+## Hi, I’m SHIVANI
+![An illustrtion image of a girl coding](https://thumbs.dreamstime.com/b/illustration-geek-work-computer-scientist-profession-302054838.jpg)
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Full Stack Development
+<!--- 💞️ I’m looking to collaborate on ...--->
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Vanicoding27/Vanicoding27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
